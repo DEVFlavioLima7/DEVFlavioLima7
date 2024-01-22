@@ -4,7 +4,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/flaviolimamartins10@gmail.com)
 
 ![flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVFlavioLima7&show_icons=true&theme=synthwave)
-
+[![wakatime](https://wakatime.com/badge/user/018d3227-6b69-49a2-9b2d-24abae70f9f9.svg)](https://wakatime.com/@018d3227-6b69-49a2-9b2d-24abae70f9f9)
 ### Tecnologias que uso
 
 <div style="display: inline block"><br/>
