@@ -1,8 +1,8 @@
 ### Hi ! I am Flavio Martins 🫶
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=825cff&vCenter=true&center=true&width=1000&lines=Flavio+Martins;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=FFFFFF&vCenter=true&center=true&width=1000&lines=Flavio+Martins;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
 
 > **Bachelor's Degree in Information Systems - UFPI, CSHNB**
